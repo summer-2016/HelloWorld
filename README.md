@@ -1,2 +1,1 @@
-# HelloWorld
-test
+this is a "hello world" program
